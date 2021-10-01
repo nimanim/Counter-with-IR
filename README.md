@@ -14,6 +14,6 @@ Parts required for this project:
 
 1-arduino uno or nano 
 
-2-lcd 16*2 (no ISP)
+2-lcd 16*2 (no I2C)
 
 3-IR sensor
